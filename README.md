@@ -1,25 +1,9 @@
-# deep-learning-workshops
-notes for Deep Learning Workshops
+# Complex Systems LAB
+notes for CS laboratory classes, Fall 2024
 
-## lecture notes:
-- [machine learning fundamentals](ML_fundamentals.pdf)
-- [convolutional neural networks and GANs](CNNs_and_GANs.pdf)
+## laboratory problems
+1. [Nonlinear Dynamics](problem)
 
-## laboratory classes
-1. Handwritten digits classification using MNIST dataset with Pytorch
-- models: perceptron, deep fully-connected network, generic CNN,
-- various activations,
-- overfitting,
-- early stopping
+#### Timelines and grading
+[Rules](rules.pdf)
 
-[Colab notebook](mnist_in_3_flavours.ipynb)
-
-![overfitted model](Deep.png)
-
-2. Convolutional GAN on MNIST
-- generative adversarial network model: generator & discriminator,
-- training GANs
-
-[Colab notebook](GAN_on_MNIST.ipynb)
-
-![example results for GAN model](generated_mnist.png)
