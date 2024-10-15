@@ -2,4 +2,6 @@
 *.pptx
 *.xlsx
 *.key
+*.numbers
 old/
+reports/
