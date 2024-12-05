@@ -7,6 +7,7 @@ notes for CS laboratory classes, Fall 2024
 3. [Oslo model](problem_3.pdf)
 4. [Percolation](problem_4.pdf)
 5. [Complex networks](problem_5.pdf)
+6. [Lattice simulations](problem_6.pdf)
 
 #### Notes for the first lecture
 [Nonlinear Dynamics](lecture_nld.pdf)
